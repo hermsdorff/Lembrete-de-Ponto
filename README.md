@@ -134,5 +134,5 @@ Se o usuário tem saldo no banco de horas diferente do valor configurado em **Me
 
 Se o saldo do banco de horas é menor que a **Meta do banco de horas**, o sistema iniciará o dia considerando que a primeira entrada pode ser antecipada, respeitando a restrição **Não iniciar antes de**. Caso necessário, o sistema atrasará o horário da saída de refeição respeitando a restrição **Intervalo mínimo de refeição**. Caso estas medidas não tenham sido suficientes para o usuário compensar o tempo previsto, o sistema compensará no fim do horário, respeitando a restrição **Não trabalhar após**
 
-Se o saldo do banco de horas é maior que a **Meta do banco de horas**,  o sistema iniciará o dia considerando que a primeira entrada pode ser atrasada em até meia hora. Caso necessário o sistema atrasará o retorno da refeição para compensar o tempo restante
+Se o saldo do banco de horas é maior que a **Meta do banco de horas**,  o sistema iniciará o dia considerando que a primeira entrada pode ser atrasada em até meia hora. Caso necessário o sistema atrasará o retorno da refeição para compensar o tempo restante mantendo o limite máximo de 2 horas para o horário de refeição
 
