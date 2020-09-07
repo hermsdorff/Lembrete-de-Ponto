@@ -64,7 +64,8 @@ Clicando com o botão direito sobre o ícone aparece o seguinte menu
 
 A seguir uma descrição das opções:
 
-- **Atualizar**: O programa consulta novamente os dados do ponto do usário
+- **Atualizar**: O programa consulta novamente os dados do ponto do usuário
+- **Estou de folga**: Se marcado o programa considera que o dia atual não deve ter marcações e não emite novos alertas. A marcação é automaticamente desfeita quando iniciar o próximo dia
 - **Abrir Ponto**: Abre a página da central do funcionário com o navegador padrão
 - **Configurar**: Abre a janela de configuração
 - **Sair**: O Lembrete de ponto é finalizado
