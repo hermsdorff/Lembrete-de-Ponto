@@ -52,7 +52,7 @@ Após a instalação aparecerá um ícone de relógio na área de trabalho
 
 Caso o Lembrete de Ponto tenha sido iniciado, aparecerá o mesmo ícone na bandeja do sistema, próximo ao relógio. Caso não esteja aparecendo, você deve dar duplo clique no atalho da área de trabalho, para iniciar o programa.
 
-![bandeja](C:\Users\Kleber\Documents\Projetos\Ponto\imagens\bandeja.png)
+![bandeja](imagens/bandeja.png)
 
 
 
@@ -60,7 +60,7 @@ Caso o Lembrete de Ponto tenha sido iniciado, aparecerá o mesmo ícone na bande
 
 Clicando com o botão direito sobre o ícone aparece o seguinte menu
 
-![menu](C:\Users\Kleber\Documents\Projetos\Ponto\imagens\menu.png)
+![menu](imagens/menu.png)
 
 A seguir uma descrição das opções:
 
